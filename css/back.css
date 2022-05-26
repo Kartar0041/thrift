@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@300;400;500;600;700&family=Exo+2:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+</style>
+
+
+.header {float: left;width: 100%;}
+
+.head {float: left; width: 100%;}
+
+.head .col-sm-4 {float: left;
+				text-align: left;
+				padding-top: 20px;}
+.head .middle li {list-style: none;
+				display: inline-block;
+				padding-left: 15px;}
+
+.head .right {padding-top: 10px;
+			  text-align: right;
+			  padding-right: 80px;}
+
+.head .right button {border: 1px solid #000000;
+					 border-radius: 10px;
+					 font-family: 'Roboto';
+					font-style: normal;
+					font-weight: 400;
+					font-size: 16px;
+					line-height: 19px;
+					color: #020000;
+					padding: 10px;
+					margin-left: 5px;
+					background: transparent;
+					}
+
+.head .right button:hover {background: linear-gradient(0deg, #000000, #000000), #4D00FF;
+							border-radius: 10px;
+							color: #4D00FF;}
+
+
+
+.cat {float: left;width: 100%;}
+
+.cat .zz {float: left;width: 100%;
+			margin-top: 30px;}
+
+.cat .zz .p1 {font-family: 'Roboto';
+			font-style: normal;
+			font-weight: 500;
+			font-size: 24px;
+			color: #020000;
+			border-bottom: 2px solid lightgrey;}
+
+.cat .zz .p2 {font-family: 'Roboto';
+			  font-style: normal;
+			  font-weight: 400;
+			  font-size: 16px;
+			  color: #555555;
+			  padding-bottom:10px;}
+
+.cat .zz .p2 span {color: #FF426F;}
+
+.bat {float: left; width: 100%;}
+
+.bat .qq { float: left; width: 100%;
+				 background-image: url("../image/bg1.png");
+				 max-width: 100%;
+				 background-repeat: no-repeat;
+				 background-size: cover;
+				 text-align: center;
+				 padding-bottom: 146px;}
+
+.bat .qq h2 {font-family: 'Roboto';
+				font-style: normal;
+				font-weight: 500;
+				font-size: 30px;
+				color: #FF426F;
+				text-align: center;
+				padding-top: 50px;}
+
+.bat .qq .p1 { text-align: center;
+				float: left;width: 100%}
+
+.bat .qq .p1 input {border: 1px solid #C4C4C4;
+				border-radius: 4px; 
+			    width: 50%;
+				height: 35px;
+				margin-top: 20px;
+				padding: 10px 0px 10px 5px;}
+
+.bat .qq .p1 select {border: 1px solid #C4C4C4;
+				border-radius: 4px; 
+			    width: 50%;
+				height: 35px;
+				margin-top: 20px;}
+
+.bat .qq .feed {float: left;width: 100%;
+				text-align: center;}
+
+.bat .qq .feed textarea {border: 1px solid #C4C4C4;
+				border-radius: 4px; 
+				margin-top: 20px;}
+
+.bat .qq .p1 button {background: #000000;
+							border-radius: 10px; 
+							font-family: 'Roboto';
+							font-style: normal;
+							font-weight: 400;
+							font-size: 16px;
+						    padding: 10px 30px;
+							color: #FFFFFF; 
+							margin-top: 40px;
+} 
+
+.task { float: left; width: 100%; }
+
+.task .col-sm-12 {float: left;
+				  background-color: #FF426F0F;
+				  margin-top: 50px;
+					padding-bottom: 50px;}
+
+.task .mad p {font-family: 'Roboto';
+			font-style: normal;
+			font-weight: 500;
+			font-size: 26px;
+			color: #020000;
+			padding-top: 40px;
+			padding-left:30px;}
+
+.task .col-sm-5 {float: left;
+				margin-top: 25px;}
+
+.task .choice ul li {display: inline-block;
+			   list-style: none;
+				padding-right: 20px;}
+
+.task .choice ul li input[type="radio"] {margin-right: 10px;}			
+
+
+.task .col-sm-7 {float: left;
+				margin: 0px;}
+
+.task .col-sm-7 button {background: #000000;
+						border-radius: 10px;
+						font-family: 'Roboto';
+						font-style: normal;
+						font-weight: 400;
+						font-size: 16px;
+						color: #FFFFFF;
+						margin-left: -122px;
+						padding: 5px 25px 4px 25px}
+
+.task .search form {margin: 20px;}
+
+.task .search input {padding: 5px 150px 5px 5px;}
+
+.footer {float: left;width: 100%;}
+
+.footer .col-sm-12 {float: left;
+					margin-top: 50px;
+					 text-align: center;
+					 margin-bottom: 0px;}
+
+
+.footer .col-sm-2 { float: left; }
+
+.footer .q1 p { border-right: 2px solid lightgrey;
+				text-align: center; }
+
+.footer .p1 {float: left;
+				margin-left: 90px;}
+
+.footer .col-sm-12 { float: left; }
+
+.footer .aa {float: left; width: 100%; text-align: center;}
+
+.footer .aa {text-align: center;}
+
+
+.footer .col-sm-12 .aa span {padding-right: 30px;}
+
+.footer .col-sm-12 .aa span i {font-size: 40px;}
+
+.footer .ww p{text-align: center;}

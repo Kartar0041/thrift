@@ -1,0 +1,413 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap');
+/*---head sectin starts---*/
+
+.header {float: left;width: 100%;}
+.header .col-sm-4 {float: left;margin-top: 40px;}
+.header .head-left ul li {list-style: none; display: inline-block; padding-left: 30px;}
+.header .head-left ul li p {font-style: normal; font-weight: 500; font-size: 12px; color: #000000;}
+
+.header .head-center {text-align: center; max-width: 100%;}
+
+.header .head-right {float: left; text-align: center;}
+.header .head-right ul li {list-style: none; display: inline-block; padding-left: 10px;}
+
+/*---head section ends---*/
+
+/*---MAIN SECTION STARTS---*/
+
+.main {float: left;width:100%;
+	   background-image: url("../image/bgthrift.png");
+	   background-repeat: no-repeat;
+	   background-size: cover;
+	   max-width: 100%;
+		height:535px;
+		margin-top: 30px;}
+.main .col-sm-6 {float: left;}
+.main .main-left img {position: relative; top: 60px; left: 85px; max-width: 100%;}
+
+.main .main-right {padding-top: 135px;
+   					 padding-left: 80px;}
+.main .main-right .p1 {font-family: 'Great Vibes', cursive;
+					font-style: normal;
+					font-weight: 400;
+					font-size: 26px;
+					color: #FFE761;}
+
+.main .main-right .p2 {font-family: 'Roboto';
+						font-style: normal;
+						font-weight: 700;
+						font-size: 108px;
+						text-transform: uppercase;
+						color: #FFFFFF;
+						margin: -35px 0px -15px 0px;}
+
+.main .main-right .p3 {font-family: 'Roboto';
+						font-style: normal;
+						font-weight: 700;
+						font-size: 22px;
+						text-transform: uppercase;
+						color: #BCE7F0;}
+.main .main-right .p3 span {font-family: 'Roboto';
+							font-style: normal;
+							font-weight: 400;
+							font-size: 12px;
+							color: #FFFFFF;
+							padding-left: 40px;}
+
+.main .main-right button {font-family: 'Readex Pro';
+						font-style: normal;
+						font-weight: 600;
+						font-size: 16px;
+						text-transform: uppercase;
+						color: #000000;
+						padding: 5px 15px 5px 15px;}
+
+.main .main-right button:hover {border-bottom: 3px solid hotpink;
+								border-right: 3px solid hotpink;}
+
+/*---MAIN SECTION ENDS---*/
+
+/*---WELCOME SECTION STARTS---*/
+
+.welcome {float: left; width: 100%;}
+.welcome .first { margin-top: 80px;
+				float: left; width: 100%;}
+.welcome .first .col-sm-4{float: left;}
+.welcome .first .q1 img {max-width: 100%;
+						 padding-left: 77px;}
+.welcome .first .q3 img {max-width: 100%;}
+.welcome .first .q2 {padding-top: 40px;
+					 text-align: center;}
+.welcome .first .q2 .p1 {font-family: 'Great Vibes';
+						font-style: normal;
+						font-weight: 400;
+						font-size: 32px;
+						color: #000000;
+						}
+.welcome .first .q2 .p2 {
+						font-family: 'Roboto';
+						font-style: normal;
+						font-weight: 400;
+						font-size: 14px;
+						line-height: 17px;
+						text-align: center;
+						text-transform: uppercase;
+						color: #000000;}
+
+.welcome .second { float: left;width: 100%;
+					margin-bottom: 40px; }
+.welcome .second .col-sm-4 {float: left;}
+.welcome .second .w1 p {text-align: center;
+					padding-left: 80px;
+					}
+.welcome .second .p1 {padding-top: 30px;
+					  font-family: 'Roboto';
+					  font-style: italic;
+					  font-weight: 500;
+					  font-size: 12px;
+					  line-height: 14px;
+					  text-align: center;
+					  color: #B6B6B6;}
+.welcome .second .p2 {font-family: 'Great Vibes';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+color: #000000;
+padding-top: 50px;
+}
+.welcome .second .p2 span {font-family: 'Roboto';
+font-style: italic;
+font-weight: 500;
+font-size: 16px;
+color: #000000;
+}
+
+.welcome .second .p3 {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+color: #B6B6B6;
+}
+
+.welcome .second .p4 button {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+color: #FFFFFF;
+background: #000000;
+padding: 5px 10px;
+}
+
+.welcome .second .w2 {text-align: center;}
+.welcome .second .w3 {text-align: center;
+					  padding-right: 80px;}
+/*--- WELCOME SECTION ENDS---*/
+
+/*---quality section starts---*/
+
+.quality {float: left;width: 100%;}
+.quality .shoes {float: left;width: 100%;
+				 margin-top: 30px;}
+.quality .shoes p {text-align: center; margin-top: 0px;}
+.quality .shoes .p1 {font-family: 'Great Vibes';
+					font-style: normal;
+					font-weight: 400;
+					font-size: 42px;
+					color: #000000;
+					margin-bottom: -5px;}
+.quality .shoes .p1 span {font-family: 'Roboto';
+						font-style: italic;
+						font-weight: 500;
+						font-size: 16px;
+						color: #000000;}
+
+.quality .shoes .p2 {font-family: 'Roboto';
+					font-style: normal;
+					font-weight: 700;
+					font-size: 12px;
+					color: #B6B6B6;}
+
+.quality .shoes .p3 img {margin-top: 20px;}
+
+.quality .shoes .p4 {font-family: 'Caveat';
+					font-style: normal;
+					font-weight: 700;
+					font-size: 42px;
+					line-height: 53px;
+					color: #000000;}
+
+/*---quality section ends---*/
+
+/*---Premium section starts---*/
+
+.batch {float: left;width: 100%;}
+.batch .batch-left {float: left;}
+.batch .batch-left .q1 {float: left;}
+.batch .batch-left .q1 img {max-width: 100%;}
+.batch .batch-left .q2 {float: left;}
+.batch .batch-left .q2 { background: #BAAED6;
+						margin-bottom: 30px;
+						padding:30px 0px;}
+.batch .batch-left .q2 .p1  { text-align: center; } 	
+.batch .batch-left .q2 .p1 img {max-width: 20%;
+								margin-top: 25px;}
+.batch .batch-left .q2 .p2 {font-family: 'Great Vibes';
+							font-style: normal;
+							font-weight: 400;
+							font-size: 28px;
+							color: #90194B;
+							text-align: center;}
+.batch .batch-left .q2 .p2 span {font-family: 'Roboto';
+								font-style: italic;
+								font-weight: 400;
+								font-size: 16px;
+								color: #000000;}
+
+.batch .batch-left .q2 .p3 {font-family: 'Roboto';
+							font-style: normal;
+							font-weight: 500;
+							font-size: 14px;
+							line-height: 16px;
+							text-align: center;
+							color: #000000;}
+.batch .batch-left .q2 .p4 {font-family: 'Roboto';
+							font-style: normal;
+							font-weight: 500;
+							font-size: 12px;
+							text-align: center;
+							color: rgba(0, 0, 0, 0.17);}
+.batch .batch-left .q2 .p5 button {background: #000000;
+									font-family: 'Roboto';
+									font-style: normal;
+									font-weight: 500;
+									font-size: 12px;
+									color: #FFFFFF;}
+.batch .batch-left .q2 .p5 {text-align: center;}
+.batch .container{ max-width: 1308px; padding:0; }
+
+.batch .batch-right {float: left;}
+.batch .batch-right .q3 {float: left;
+						background: #9BD4E7;
+						padding: 35px 0px; }
+.batch .batch-right .q3 .p1  { text-align: center; }
+
+.batch .batch-right .q3 .p1 img {max-width: 20%;
+								margin-top: 25px;}
+.batch .batch-right .q3 .p2 {font-family: 'Great Vibes';
+							font-style: normal;
+							font-weight: 400;
+							font-size: 28px;
+							color: #90194B;
+							text-align: center;}
+.batch .batch-right .q3 .p2 span {font-family: 'Roboto';
+								font-style: italic;
+								font-weight: 400;
+								font-size: 16px;
+								color: #000000;}
+
+.batch .batch-right .q3 .p3 {font-family: 'Roboto';
+							font-style: normal;
+							font-weight: 500;
+							font-size: 14px;
+							line-height: 16px;
+							text-align: center;
+							color: #000000;}
+.batch .batch-right .q3 .p4 {font-family: 'Roboto';
+							font-style: normal;
+							font-weight: 500;
+							font-size: 12px;
+							text-align: center;
+							color: rgba(0, 0, 0, 0.17);}
+.batch .batch-right .q3 .p5 button {background: #000000;
+									font-family: 'Roboto';
+									font-style: normal;
+									font-weight: 500;
+									font-size: 12px;
+									color: #FFFFFF;}
+.batch .batch-right .q3 .p5 {text-align: center;}
+
+.batch .batch-right .q4 {float: left;}
+.batch .batch-right .q4 img  {max-width: 111%;}
+
+
+/*---Premium section ends---*/
+
+/*---mens section starts---*/
+
+.mens {float: left; width: 100%;}
+
+.mens .q1 { float: left; width: 100%; }
+
+.mens .q1 .p1 { font-family: 'Great Vibes';
+				font-style: normal;
+				font-weight: 400;
+				font-size: 26px;
+				color: #000000;
+				text-align: center;
+				 }
+
+.mens .q1 .p2 { font-family: 'Roboto';
+				font-style: normal;
+				font-weight: 700;
+				font-size: 28px;
+				text-align: center;
+				color: #FF00A9;}
+
+.mens .q1 .p3 { font-family: 'Roboto';
+				font-style: normal;
+				font-weight: 700;
+				font-size: 12px;
+				text-align: center;
+				color: #B6B6B6;}
+.mens .q1 .p4 { font-family: 'Roboto';
+					font-style: normal;
+					font-weight: 700;
+					font-size: 12px;
+					text-align: center;
+					color: #000000;}
+
+
+.mens .q1 .p4 span { font-family: 'Roboto';
+					font-style: normal;
+					font-weight: 700;
+					font-size: 12px;
+					text-transform: uppercase;
+					color: #B6B6B6;}
+
+.mens .q2 {float: left;}
+
+.mens .q2 img {max-width: 100%;}
+
+
+.mens .q3 {float: left;}
+
+.mens .q3 {font-family: 'Roboto';
+			font-style: normal;
+			font-weight: 400;
+			font-size: 36px;
+			line-height: 150%;
+			text-align: center;
+			color: #232229;
+			padding-top: 75px;
+    		padding-right: 200px}
+
+/*---crousel section starts*/
+
+.luxury {float: left;width: 100%;}
+
+.luxury .q1 {float: left;width: 100%;
+			margin-top: 60px;
+		    background: #F8F8F8;}
+
+.luxury .q1 .p1 {font-family: 'Great Vibes';
+				font-style: normal;
+				folnt-weight: 400;
+				font-size: 26px;
+				color: #000000;
+				text-align: center;}
+
+.luxury .q1 .p2 {font-family: 'Roboto';
+				font-style: normal;
+				font-weight: 700;
+				font-size: 28px;
+				line-height: 33px;
+				text-align: center;
+				color: #000000;}
+
+
+.luxury .q1 .p3 {font-family: 'Roboto';
+				font-weight: 700;
+				fot-style: normal;
+				font-size: 12px;
+				line-height: 14px;
+				text-align: center;
+				color: #B6B6B6;}
+
+.luxury .q1 .p4 {font-family: 'Roboto';
+				font-style: italic;
+				font-weight: 500;
+				font-size: 18px;
+				line-height: 21px;
+				text-align: center;
+				color: #A9A9A9;}
+
+.luxury .q1 .p5 {font-family: 'Roboto';
+				font-style: normal;
+				font-weight: 500;
+				font-size: 12px;
+				line-height: 14px;
+				text-align: center;
+				color: #696969;
+				padding: 20px 10px 0px 0px;}
+
+.luxury .q1 .p5 span {font-family: 'Roboto';
+				font-style: normal;
+				font-weight: 500;
+				font-size: 12px;
+				line-height: 14px;
+				text-align: center;
+				color: #B3B3B3;
+				border-left: 2px solid lightgrey;
+				padding-left: 10px;
+				margin-left: 10px;}
+
+.luxury .q1 .p6 {text-align: center;}
+
+.luxury .q1 .p6 img {max-width: 100%;}
+
+.home-demo .item {
+    background: #ff3f4d;
+}
+.home-demo h2 {
+    color: #FFF;
+    text-align: center;
+    padding: 5rem 0;
+    margin: 0;
+    font-style: italic;
+    font-weight: 300;
+}
